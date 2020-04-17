@@ -68,11 +68,11 @@ QANet256+stroke-aware*|47.79|77.07|47.62|76.44|59000
 QANet256+wordpiece-aware*|48.01|77.51|47.83|77.71|59000
 BERT-base|46.58|75.94|46.34|76.12|100000
 
->cw2vec: Learning Chinese Word Embeddings with Stroke n-gram Information  
-wordpiece-aware: An Adaptive Wordpiece Language Model for Learning Chinese Word Embeddings
-`
+>`cw2vec`: Learning Chinese Word Embeddings with Stroke n-gram Information  
+
+>`wordpiece-aware`: An Adaptive Wordpiece Language Model for Learning Chinese Word Embeddings
+
 B. Xu, L. Ma, L. Zhang, H. Li, Q. Kang and M. Zhou, "An Adaptive Wordpiece Language Model for Learning Chinese Word Embeddings," 2019 IEEE 15th International Conference on Automation Science and Engineering (CASE), Vancouver, BC, Canada, 2019, pp. 812-817.
-`
 
 ## Analysis
 ![](/pic/length.png)
